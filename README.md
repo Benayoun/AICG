@@ -49,7 +49,7 @@
 		│   │  ├── aijs		// JS库，包含基础扩展以及工具方法
 		│   │  ├── aiui		// UI库，包含样式模块以及交互组件
 		│   │  ├── aicg		// 编码规范[MD]，包含各种书写规范以及校验工具
-		│   │  ├── aimd 	// 知识库[MD]，包含新人成长，以及常见疑难问题解决方案
+		│   │  ├── aimd		// 知识库[MD]，包含新人成长，以及常见疑难问题解决方案
 		│   │  └── aiat		// 工具库[MD]，包含前端开发以及自动化部署工具
 		│   ├── scripts 
 		│   │  ├── lib		// 基础框架 jQuery, Zepto, Handlebars, extjs
@@ -648,3 +648,9 @@
 		 * @param {Object} balabalabala
 		 * @return {Object} balabalabala
 		 */
+
+
+####UPDATE
+- 2014-08-20   
+	* 细化HTML,CSS范内容目录，和JavaScript保持一致 
+	* 引入代码格式化和校验工具
